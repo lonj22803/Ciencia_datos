@@ -1,0 +1,204 @@
+{
+    "estudiantes": [
+        {
+            "nombre": "Estudiante 1",
+            "edad": 21,
+            "curso": "Curso 2"
+        },
+        {
+            "nombre": "Estudiante 2",
+            "edad": 21,
+            "curso": "Curso 5"
+        },
+        {
+            "nombre": "Estudiante 3",
+            "edad": 28,
+            "curso": "Curso 8"
+        },
+        {
+            "nombre": "Estudiante 4",
+            "edad": 26,
+            "curso": "Curso 8"
+        },
+        {
+            "nombre": "Estudiante 5",
+            "edad": 25,
+            "curso": "Curso 5"
+        },
+        {
+            "nombre": "Estudiante 6",
+            "edad": 20,
+            "curso": "Curso 4"
+        },
+        {
+            "nombre": "Estudiante 7",
+            "edad": 26,
+            "curso": "Curso 10"
+        },
+        {
+            "nombre": "Estudiante 8",
+            "edad": 20,
+            "curso": "Curso 2"
+        },
+        {
+            "nombre": "Estudiante 9",
+            "edad": 30,
+            "curso": "Curso 8"
+        },
+        {
+            "nombre": "Estudiante 10",
+            "edad": 25,
+            "curso": "Curso 7"
+        },
+        {
+            "nombre": "Estudiante 11",
+            "edad": 19,
+            "curso": "Curso 4"
+        },
+        {
+            "nombre": "Estudiante 12",
+            "edad": 29,
+            "curso": "Curso 9"
+        },
+        {
+            "nombre": "Estudiante 13",
+            "edad": 30,
+            "curso": "Curso 8"
+        },
+        {
+            "nombre": "Estudiante 14",
+            "edad": 20,
+            "curso": "Curso 9"
+        },
+        {
+            "nombre": "Estudiante 15",
+            "edad": 21,
+            "curso": "Curso 6"
+        },
+        {
+            "nombre": "Estudiante 16",
+            "edad": 24,
+            "curso": "Curso 6"
+        },
+        {
+            "nombre": "Estudiante 17",
+            "edad": 28,
+            "curso": "Curso 7"
+        },
+        {
+            "nombre": "Estudiante 18",
+            "edad": 29,
+            "curso": "Curso 5"
+        },
+        {
+            "nombre": "Estudiante 19",
+            "edad": 18,
+            "curso": "Curso 2"
+        },
+        {
+            "nombre": "Estudiante 20",
+            "edad": 19,
+            "curso": "Curso 6"
+        },
+        {
+            "nombre": "Estudiante 21",
+            "edad": 24,
+            "curso": "Curso 3"
+        },
+        {
+            "nombre": "Estudiante 22",
+            "edad": 28,
+            "curso": "Curso 7"
+        },
+        {
+            "nombre": "Estudiante 23",
+            "edad": 26,
+            "curso": "Curso 7"
+        },
+        {
+            "nombre": "Estudiante 24",
+            "edad": 28,
+            "curso": "Curso 1"
+        },
+        {
+            "nombre": "Estudiante 25",
+            "edad": 20,
+            "curso": "Curso 3"
+        },
+        {
+            "nombre": "Estudiante 26",
+            "edad": 30,
+            "curso": "Curso 3"
+        },
+        {
+            "nombre": "Estudiante 27",
+            "edad": 18,
+            "curso": "Curso 7"
+        },
+        {
+            "nombre": "Estudiante 28",
+            "edad": 23,
+            "curso": "Curso 3"
+        },
+        {
+            "nombre": "Estudiante 29",
+            "edad": 24,
+            "curso": "Curso 9"
+        },
+        {
+            "nombre": "Estudiante 30",
+            "edad": 22,
+            "curso": "Curso 10"
+        },
+        {
+            "nombre": "Estudiante 31",
+            "edad": 18,
+            "curso": "Curso 3"
+        },
+        {
+            "nombre": "Estudiante 32",
+            "edad": 29,
+            "curso": "Curso 3"
+        },
+        {
+            "nombre": "Estudiante 33",
+            "edad": 25,
+            "curso": "Curso 8"
+        },
+        {
+            "nombre": "Estudiante 34",
+            "edad": 23,
+            "curso": "Curso 8"
+        },
+        {
+            "nombre": "Estudiante 35",
+            "edad": 24,
+            "curso": "Curso 1"
+        },
+        {
+            "nombre": "Estudiante 36",
+            "edad": 25,
+            "curso": "Curso 8"
+        },
+        {
+            "nombre": "Estudiante 37",
+            "edad": 25,
+            "curso": "Curso 1"
+        },
+        {
+            "nombre": "Estudiante 38",
+            "edad": 25,
+            "curso": "Curso 4"
+        },
+        {
+            "nombre": "Estudiante 39",
+            "edad": 26,
+            "curso": "Curso 9"
+        },
+        {
+            "nombre": "Estudiante 40",
+            "edad": 19,
+            "curso": "Curso 4"
+        }
+    ]
+}
